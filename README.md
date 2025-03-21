@@ -1,5 +1,5 @@
-# My First Project  
-A simple project to learn GitHub and Markdown.
+# Это мой первый проэкт в Github-е  
+Где я могу написать как мой проект работает и функционируется 
 
 ## Features  
 - Beginner-friendly  
