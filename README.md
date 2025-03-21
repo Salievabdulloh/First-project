@@ -9,4 +9,4 @@
 ## My GIT  
 1. Repository:  
    ```sh
-   This is my URL go ahead and press the "Follow button" --> https://github.com/Salievabdulloh
+   This is my URL go ahead and press the "Follow" button --> https://github.com/Salievabdulloh
