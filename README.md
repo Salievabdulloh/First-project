@@ -1,12 +1,12 @@
 # Это мой первый проэкт в Github-е  
 Где я могу написать как мой проект работает и функционируется 
 
-## Features  
-- Beginner-friendly  
-- Uses Git commands  
+## Полесзность  
+- Очень удобно работать когда роботаешь со своими коллегами  
+- Для начинающих
 - Simple README structure  
 
 ## Installation  
 1. Clone the repo:  
    ```sh
-   git clone https://github.com/username/project.git
+   This is my URL go ahead and press the "Follow button" --> https://github.com/Salievabdulloh
